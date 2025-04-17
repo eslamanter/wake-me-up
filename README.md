@@ -12,3 +12,5 @@ To log off your PC on the specified time, enter "logoff" - lower-case letters wi
 To close the program on the specified time, enter "close" - lower-case letters - in the text box.
 
 15/03/2015 | Eslam Abdullah
+
+P.S. Only setup files are available. Unfortunately, source code is lost.
