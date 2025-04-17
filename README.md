@@ -1,5 +1,5 @@
 # Wake Me Up
-"Wake Me Up" - version 1.0.0.0 is an alarm clock programmed to be set on a specific time of the day.
+"Wake Me Up" - version 1.0 is an alarm clock programmed to be set on a specific time of the day.
 
 To activate the alarm clock, reset the numbers of HH:MM to the needed time.
 To play an alarm and show a specific message on the specified time, enter its text content in the text box.
